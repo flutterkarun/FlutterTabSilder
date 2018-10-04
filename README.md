@@ -1,8 +1,4 @@
-# dav
+# Tab Slider
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<img src="https://raw.githubusercontent.com/flutterkarun/FlutterTabSilder/master/art/demo_img.gif"
+ data-canonical-src="#" width="300" height="530" />
